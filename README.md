@@ -23,7 +23,7 @@
 
 - The CEO can decrease the price of the fare a little bit or offer some promotion for the rural and suburban area to gain attention from residents. When the fare per driver or driver are decreased, it will become more affordable for low income people, especially in the rural area. 
 
-- One of reasons why people in rural area doesn’t use the service is that it is not advertised publicly to all of the residents. Some of people might not know the existence of PyBer and its service. ---Therefore, the CEO needs to concentrate on the marketing aspects to raise the awareness of rural residents about company’s service. 
+- One of reasons why people in rural area doesn’t use the service is that it is not advertised publicly to all of the residents. Some of people might not know the existence of PyBer and its service. Therefore, the CEO needs to concentrate on the marketing aspects to raise the awareness of rural residents about company’s service. 
 
 - PyBer is successful in urban areas; however, they can develop more by upgrading the user-interface of their application or increase their customer services for helping customers whenever they need right away. 
 
