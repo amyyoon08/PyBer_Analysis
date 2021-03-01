@@ -6,7 +6,7 @@
 
 ## Results: 
 
-![Optional Text](table.PNG)
+![Optional Text](../table.PNG)
 
 -From the table, the urban areas show the highest numbers in most of the categories. People living in the city need more rides for some purposes such as doing business or moving between two destinations which is far from each other. Therefore, the demand of urban residents to use this service might be higher than the other two areas. It leads to the higher supply, so the number of drivers and the total fares are high as well. Thus, the price of each fare is lower. 
 
