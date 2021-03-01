@@ -17,7 +17,7 @@
 -As can be seen from the line chart, the total fares of urban area remain on top and those from rural one receives lowest numbers while the suburban stays in the middle.
 
 
-![Optional Text](PyBer_fare_summary.png)
+![Optional Text](analysis/PyBer_fare_summary.png)
 
 ## Summary: 
 
